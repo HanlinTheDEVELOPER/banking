@@ -26,3 +26,4 @@ const Transfer = async () => {
 		</section>
 	);
 };
+export default Transfer;
